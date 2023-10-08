@@ -1,0 +1,15 @@
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\App.g.cs
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\MainWindow.baml
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator.exe
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator.pdb
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\bin\Debug\Calculator.exe.config
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\bin\Debug\Calculator.exe
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\bin\Debug\Calculator.pdb
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator.g.resources
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+Z:\Documents\Programming\Interface\laba1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
